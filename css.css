@@ -10,7 +10,7 @@ body {
 }
 
 .pageBody {
-  background-color: #fff;
+  background-color: #000;
 }
 
 h1 {
@@ -28,7 +28,7 @@ h3 {
 body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #fff;
+  background-color: #000;
 }
 
 a:link,a:hover,a:visited,a:active {
