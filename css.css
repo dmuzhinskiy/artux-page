@@ -167,11 +167,8 @@ header {
 
 @media only screen and (max-width:500px) {
 .headerIcon {
-  width: 100px;
-  height: 53px;
-  object-fit: cover;
-  -webkit-clip-path: url(#shape);
-  clip-path: url(#shape);
+  	position:absolute;
+	right:-50px;
 }
 }
 
