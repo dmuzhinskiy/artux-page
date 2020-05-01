@@ -167,8 +167,7 @@ header {
 
 @media only screen and (max-width:500px) {
 .headerIcon {
-  	position:absolute;
-	right:-50px;
+   right:-120px;
 }
 }
 
