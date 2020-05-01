@@ -12,6 +12,7 @@ apps                                      :
 topbar_color                              : "#000000"
 topbar_transparency                       : 0.7
 topbar_title_color                        : "#ffffff"
+body_background_color                     : "#000"
 
 cover_image                               : /artux-page/assets/headerimage.png                 
 cover_overlay_color                       : "#363b3d"
