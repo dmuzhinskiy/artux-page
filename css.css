@@ -893,7 +893,7 @@ footer {
 .markdown-body blockquote,.markdown-body dl,.markdown-body ol,.markdown-body p,.markdown-body pre,.markdown-body table,.markdown-body ul {
   margin-bottom: 16px;
   margin-top: 0;
-  color: #737373;
+  color: #e8e8ea;
 }
 
 .markdown-body hr {
@@ -946,7 +946,7 @@ footer {
 .markdown-body h1,.markdown-body h2 {
   border-bottom: 1px solid #eaecef;
   padding-bottom: .3em;
-  color: #737373;
+  color: #98a1aa;
 }
 
 .markdown-body h2 {
