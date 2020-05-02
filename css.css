@@ -1254,33 +1254,73 @@ nav>ul li a:hover,nav>ul li a:active {
  *
  * ------------------------------------------------------------------- 
  */
-/* DivTable.com */
-.divTable{
-	display: table;
-	width: 100%;
+.footer{
+	background:#141414;
+	padding: 4em 0px;
 }
-.divTableRow {
-	display: table-row;
+.footer-main-left h3{
+	color:#fff;
+	margin: 0px;
+	padding-bottom: 1.5em;
 }
-.divTableHeading {
-	background-color: #EEE;
-	display: table-header-group;
+.footer-main-right{
+	text-align:right;
 }
-.divTableCell, .divTableHead {
-	border: 1px solid #999999;
-	display: table-cell;
-	padding: 3px 10px;
+.footer-main-right ul li{
+	list-style:none;
+	display:inline-block;
+	}
+.footer-main-right ul li span{
+	background:url(../images/social-icons.png) no-repeat 0px 0px;
+	width:31px;
+	height:23px;
+	display:block;
+	opacity: 0.4;
+    	filter: alpha(opacity=40);
 }
-.divTableHeading {
-	background-color: #EEE;
-	display: table-header-group;
-	font-weight: bold;
+.footer-main-right ul li span.facebook{
+	background-position:16px 0px;
 }
-.divTableFoot {
-	background-color: #EEE;
-	display: table-footer-group;
-	font-weight: bold;
+.footer-main-right ul li span.twitter{
+	background-position:-26px 0px;
 }
-.divTableBody {
-	display: table-row-group;
+.footer-main-right ul li span.dribble{
+	background-position:-70px 0px;
+}
+.footer-main-right ul li span.google{
+	background-position:-111px 0px;
+}
+.footer-main-right p{
+	color:#474747;
+	font-size:16px;
+	padding-top: 2.2em;
+}
+.footer-bottom-left p{
+	padding-top: 0.6em;
+	color:#474747;
+	font-size:16px;
+	cursor: pointer;
+}
+.footer-bottom-left p:hover,.footer-bottom-left p.active{
+	text-decoration:underline;
+	transition:0.5s all;
+	-webkit-transition:0.5s all;
+	-moz-transition:0.5s all;
+	-o-transition:0.5s all;
+	-ms-transition:0.5s all;
+	}
+.footer-main-right p a{
+	color:#fff;
+	}
+.footer-main-right p a:hover{
+	text-decoration:none;
+	color:#474747;
+	transition:0.5s all;
+	-webkit-transition:0.5s all;
+	-moz-transition:0.5s all;
+	-o-transition:0.5s all;
+	-ms-transition:0.5s all;
+	}
+.footer-bottom-left {
+	padding: 0px;
 }
