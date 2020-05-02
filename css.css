@@ -955,18 +955,21 @@ footer {
 
 .markdown-body h3 {
   font-size: 1.25em;
+  color: #98a1aa;
 }
 
 .markdown-body h4 {
   font-size: 1em;
+  color: #98a1aa;
 }
 
 .markdown-body h5 {
   font-size: .875em;
+  color: #98a1aa;
 }
 
 .markdown-body h6 {
-  color: #6a737d;
+  color: #98a1aa;
   font-size: .85em;
 }
 
