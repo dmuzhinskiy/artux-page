@@ -69,6 +69,7 @@ color: #fff;
 }
 
 .apps {
+	display: flex;
   flex-grow: 1;
   flex-direction: row;
   flex-wrap: wrap;
@@ -98,6 +99,7 @@ color: #fff;
 }
 
 .container {
+	  display: grid;
   margin: auto;
   max-width: 1170px;
   padding-left: 15px;
@@ -189,6 +191,7 @@ header {
 }
 
 .scroll {
+	  display: flex;
   width: 100%;
   align-items: center;
   justify-content: flex-end;
@@ -1273,7 +1276,7 @@ nav>ul li a:hover,nav>ul li a:active {
 	background:url(../images/social-icons.png) no-repeat 0px 0px;
 	width:31px;
 	height:23px;
-	display:block;
+	display:flex;
 	opacity: 0.4;
     	filter: alpha(opacity=40);
 }
