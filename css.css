@@ -247,15 +247,15 @@ nav>ul li a:hover,nav>ul li a:active {
 }
 
 .pageHeaderBackground .logo>a {
-  color: #000;
+  color: #fff;
 }
 
 .pageHeaderBackground nav>ul li a:link,.pageHeaderBackground nav>ul li a:visited {
-  color: rgba(0,0,0,0.6);
+  color: #fff;
 }
 
 .pageHeaderBackground nav>ul li a:hover,.pageHeaderBackground nav>ul li a:active {
-  color: #000;
+  color: #ff0000;
 }
 
 .info {
