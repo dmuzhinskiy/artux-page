@@ -166,8 +166,10 @@ header {
 }
 
 @media only screen and (max-width:500px) {
-.headerIcon {
-   right:-120px;
+.headerIconMob {
+  height:53px;
+  -webkit-clip-path: url(#shape);
+  clip-path: url(#shape);
 }
 }
 
