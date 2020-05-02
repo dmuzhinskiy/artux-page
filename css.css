@@ -165,12 +165,21 @@ header {
   clip-path: url(#shape);
 }
 
+.headerIconMob {
+ display: none; 
+}
+
 @media only screen and (max-width:500px) {
 .headerIconMob {
   height:53px;
   -webkit-clip-path: url(#shape);
   clip-path: url(#shape);
 }
+  
+  .headerIcon {
+ display: none;
+}
+  
 }
 
 .scroll {
