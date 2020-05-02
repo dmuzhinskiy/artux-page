@@ -91,6 +91,7 @@ a:link,a:hover,a:visited,a:active {
 
 .pageHeaderBackground {
   background-color: #14171c;
+  z-index: 999;
 }
 
 .container {
