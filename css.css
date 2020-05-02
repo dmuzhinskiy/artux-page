@@ -6,11 +6,11 @@ html {
 
 body {
   font-size: 2rem;
-  background-color: #000;
+  background-color: #0a0a0a;
 }
 
 .pageBody {
-  background-color: #000;
+  background-color: #0a0a0a;
 }
 
 h1 {
@@ -90,7 +90,7 @@ a:link,a:hover,a:visited,a:active {
 }
 
 .pageHeaderBackground {
-  background-color: #14171c;
+  background-color: #0a0a0a;
   z-index: 999;
 }
 
@@ -888,6 +888,7 @@ footer {
 .markdown-body blockquote,.markdown-body dl,.markdown-body ol,.markdown-body p,.markdown-body pre,.markdown-body table,.markdown-body ul {
   margin-bottom: 16px;
   margin-top: 0;
+  color: #737373;
 }
 
 .markdown-body hr {
@@ -940,6 +941,7 @@ footer {
 .markdown-body h1,.markdown-body h2 {
   border-bottom: 1px solid #eaecef;
   padding-bottom: .3em;
+  color: #737373;
 }
 
 .markdown-body h2 {
