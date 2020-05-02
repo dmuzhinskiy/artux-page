@@ -76,7 +76,6 @@ color: #fff;
 }
 
 .app {
-  display: flex;
   padding-top: 41px;
   padding-left: 0px;
   padding-right: 0px;
@@ -99,7 +98,6 @@ color: #fff;
 }
 
 .container {
-  display: grid;
   margin: auto;
   max-width: 1170px;
   padding-left: 15px;
@@ -191,7 +189,6 @@ header {
 }
 
 .scroll {
-  display: flex;
   width: 100%;
   align-items: center;
   justify-content: flex-end;
