@@ -70,9 +70,6 @@ color: #fff;
 
 .apps {
 display: inline-block;
-  flex-grow: 1;
-  flex-direction: row;
-  flex-wrap: wrap;
   margin-top: 11px;
 }
 
