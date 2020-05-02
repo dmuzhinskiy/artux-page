@@ -28,7 +28,7 @@ h3 {
 body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #000;
+  background-color: #0a0a0a;
 }
 
 a:link,a:hover,a:visited,a:active {
@@ -84,12 +84,12 @@ a:link,a:hover,a:visited,a:active {
 }
 
 .headerBackground {
-  height: 60px;
+  height: 66px;
   background-color: rgba(0,0,0,0.7);
 }
 
 .pageHeaderBackground {
-  background-color: #fff;
+  background-color: #14171c;
 }
 
 .container {
@@ -106,7 +106,7 @@ a:link,a:hover,a:visited,a:active {
 
 .pageContainer {
   grid-template-rows: 60px auto auto auto;
-  background-color: #fff;
+  background-color: #0a0a0a;
 }
 
 @media only screen and (max-width: 992px) {
